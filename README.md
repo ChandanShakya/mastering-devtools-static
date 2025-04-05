@@ -29,7 +29,7 @@ python -m SimpleHTTPServer 8080
 ### Using PHP
 
 ```bash
-php -S localhost:8080
+php -S localhost:8080 router.php
 ```
 
 Any of these commands will start a local server, typically accessible at `http://localhost:8080`. Choose the method that best suits your system and preferences.
